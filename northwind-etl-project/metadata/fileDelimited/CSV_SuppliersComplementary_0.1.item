@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_q67kwO5DEe-U_pTeZCIRWQ" name="CSV_SuppliersComplementary" dataPackage="_q67kwe5DEe-U_pTeZCIRWQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/anass/Desktop/BDD/ressources/suppliers_complementary_updated.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" LimitValue="0" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_q67kwe5DEe-U_pTeZCIRWQ" name="default" dataManager="_q67kwO5DEe-U_pTeZCIRWQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_q67kwu5DEe-U_pTeZCIRWQ" id="_YSqpIO5DEe-U_pTeZCIRWQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kw-5DEe-U_pTeZCIRWQ" label="supplier_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kxO5DEe-U_pTeZCIRWQ" label="region" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kxe5DEe-U_pTeZCIRWQ" label="product_type" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kxu5DEe-U_pTeZCIRWQ" label="service_region" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kx-5DEe-U_pTeZCIRWQ" label="reliability_score" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kyO5DEe-U_pTeZCIRWQ" label="avg_delivery_time_days" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_q67kye5DEe-U_pTeZCIRWQ" label="notes" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
