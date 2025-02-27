@@ -1,0 +1,30 @@
+supplier_id,region,product_type,service_region,reliability_score,avg_delivery_time_days,notes
+1,N/A,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+2,LA,Spices,USA,4.0,7,Known for quick order processing.
+3,MI,Dairy Products,Asia,4.8,4,High-quality dairy products.
+4,N/A,Seafood,Europe,4.2,10,Wide range of seafood items.
+5,Asturias,Cheese,USA,4.7,6,Artisanal cheese supplier.
+6,N/A,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+7,Victoria,Spices,USA,4.0,7,Known for quick order processing.
+8,N/A,Dairy Products,Asia,4.8,4,High-quality dairy products.
+9,N/A,Seafood,Europe,4.2,10,Wide range of seafood items.
+10,N/A,Cheese,USA,4.7,6,Artisanal cheese supplier.
+11,N/A,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+12,N/A,Spices,USA,4.0,7,Known for quick order processing.
+13,N/A,Dairy Products,Asia,4.8,4,High-quality dairy products.
+14,N/A,Seafood,Europe,4.2,10,Wide range of seafood items.
+15,N/A,Cheese,USA,4.7,6,Artisanal cheese supplier.
+16,OR,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+17,N/A,Spices,USA,4.0,7,Known for quick order processing.
+18,N/A,Dairy Products,Asia,4.8,4,High-quality dairy products.
+19,MA,Seafood,Europe,4.2,10,Wide range of seafood items.
+20,N/A,Cheese,USA,4.7,6,Artisanal cheese supplier.
+21,N/A,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+22,N/A,Spices,USA,4.0,7,Known for quick order processing.
+23,N/A,Dairy Products,Asia,4.8,4,High-quality dairy products.
+24,NSW,Seafood,Europe,4.2,10,Wide range of seafood items.
+25,Québec,Cheese,USA,4.7,6,Artisanal cheese supplier.
+26,N/A,Beverages,Europe,4.5,5,Specializes in exotic drinks.
+27,N/A,Spices,USA,4.0,7,Known for quick order processing.
+28,N/A,Dairy Products,Asia,4.8,4,High-quality dairy products.
+29,Québec,Seafood,Europe,4.2,10,Wide range of seafood items.
